@@ -1,5 +1,17 @@
 # 抖音 AI 夜校 · 网站源码展示版
 
+## 完整源码与公司审查
+
+**[下载完整脱敏源码（182个文件，31.5 MB）](https://github.com/liuleah1102-star/ai-night-school/releases/download/review-v10-2026-11-12/ai-night-school-review-source.zip)** · [查看发布说明](https://github.com/liuleah1102-star/ai-night-school/releases/tag/review-v10-2026-11-12)
+
+当前 main 分支仅展开部分入口和审查文档，尚不是可直接构建的完整目录。完整前后端源码和图片资源均在上述附件中，请下载解压后审查/运行；GitHub 自动生成的 Source code ZIP 也只包含 main 的部分文件。
+
+- [公司审查指南](REVIEW-GUIDE.md)
+- [API 清单与测试样例](API-REVIEW.md)
+- [完整源码文件及 SHA-256 清单](REVIEW-MANIFEST.json)
+
+附件 SHA-256：`f71bc23562d8137f551ab45ae261014f52bb294c0655a0b27cba82efe2987f7e`。
+
 基于 2026-11-11 已发布第 10 版整理。包含前端页面、卡片轮换动效、课程展示、Skill 社区、留言展示、证书接口和可视化管理后台代码。
 
 ## 技术栈
